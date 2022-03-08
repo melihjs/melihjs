@@ -1,8 +1,10 @@
-# Melih Here!
-## Hello! I'm Melih! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+## Hello! i'm melih! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 ![Profile views](https://gpvc.arturio.dev/melihjs)
 
-<br> Verified Bot Developer! <br/>
+<br> 
+## i am a verified bot developer!
+## My projects are **Ghost Bot** & **Mendy**
+<br>
 <a href="https://www.youtube.com/zMelihStrqfe">
   <img align="left" alt="zMelihStrqfe | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />
 </a>
